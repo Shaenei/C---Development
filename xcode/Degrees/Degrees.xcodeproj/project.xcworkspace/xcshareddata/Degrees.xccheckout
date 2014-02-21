@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>91CEA4E2-3E9D-4260-9210-C3E7B3F3B87F</string>
+	<string>77286DB9-F521-4722-90EF-30CE64ACFEEC</string>
 	<key>IDESourceControlProjectName</key>
-	<string>BeerSong</string>
+	<string>Degrees</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>395800F8-DF64-4E18-8D11-F71C23995F09</key>
 		<string>https://github.com/Shaenei/C---Development.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>xcode/BeerSong/BeerSong.xcodeproj/project.xcworkspace</string>
+	<string>xcode/Degrees/Degrees.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>395800F8-DF64-4E18-8D11-F71C23995F09</key>
